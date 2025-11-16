@@ -478,16 +478,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🚗 **EV Community** for insights and feedback
 
 ---
-
-
-
 <div align="center">
-
-### 🚀 Ready to Experience the Future of EV Assistance?
-
-**[Get Started Now](#-quick-start)** | **[View Demo](https://evq.streamlit.app)** | **[Read Docs](https://docs.evq.ai)**
-
----
 
 **⚡ EV_Q:? - Making Electric Mobility Accessible for Everyone**
 
