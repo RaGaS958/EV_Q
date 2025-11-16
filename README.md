@@ -9,7 +9,7 @@
 
 **Multi-Agent AI Architecture • Real-time Information • Personalized Assistance**
 
-[🚀 Quick Start](#-quick-start) • [🤖 Architecture](#-architecture) • [✨ Features](#-features) • [📸 Gallery](#-gallery) • [📖 Documentation](#-documentation)
+[🚀 Quick Start](#-quick-start) • [🤖 Architecture](#-architecture) • [✨ Features](#-features) • [📸 Gallery](#-gallery) 
 
 ---
 
