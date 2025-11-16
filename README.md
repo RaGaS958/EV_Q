@@ -9,8 +9,6 @@
 
 **Multi-Agent AI Architecture • Real-time Information • Personalized Assistance**
 
-[🚀 Quick Start](#-quick-start) • [🤖 Architecture](#-architecture) • [✨ Features](#-features) • [📸 Gallery](#-gallery) 
-
 ---
 
 </div>
@@ -94,7 +92,7 @@ sequenceDiagram
 ---
 
 ## 🤖 Specialized AI Agents
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -173,6 +171,7 @@ sequenceDiagram
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -422,33 +421,6 @@ pie title Agent Usage Distribution
 - [ ] Predictive maintenance alerts
 - [ ] Community forum
 - [ ] EV marketplace integration
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. 📤 Push to branch (`git push origin feature/AmazingFeature`)
-5. 🔃 Open a Pull Request
-
-### 📝 Contribution Guidelines
-- Follow PEP 8 style guide
-- Add unit tests for new features
-- Update documentation
-- Ensure all tests pass
-
----
-
-## 🐛 Bug Reports & Feature Requests
-
-Found a bug or have a feature idea? Please [open an issue](https://github.com/RaGaS958/EV_Q/issues) with:
-
-- 🐛 **Bug Reports:** Description, steps to reproduce, expected vs actual behavior
-- 💡 **Feature Requests:** Use case, proposed solution, alternatives considered
 
 ---
 
