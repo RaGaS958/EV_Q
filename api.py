@@ -1,1 +1,1 @@
-api='AIzaSyAa6tqde6PFiTo2_4L0MOZrTqc5d3aEJdc'
+api='your gemini api'
